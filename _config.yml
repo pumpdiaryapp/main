@@ -34,25 +34,25 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-    - title                                 : Log pumping sessions
-      description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+    - title                                 : Log Pumping Sessions
+      description                           : Keep track of your pumping sessions and add notes during the session
       fontawesome_icon_name                 : magic
       
     - title                                 : Track daily activities in between sessions
-      description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-      fontawesome_icon_name                 : mobile
+      description                           : Add daily activities in between sessions to monitor milk production and impact of the activities e.g. Sleep, Taking Vitamins, Workout etc
+      fontawesome_icon_name                 : bed
 
     - title                                 : Stay on schedule with notifications
-      description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-      fontawesome_icon_name                 : play-circle
+      description                           : Set custom reminder and stay on schedule for your next pumping session
+      fontawesome_icon_name                 : snowflake
 
     - title                                 : Keep track of milk stash
-      description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-      fontawesome_icon_name                 : sync
+      description                           : Store milk stash record and usage with the easy to enter User Inteface
+      fontawesome_icon_name                 : bell
 
     - title                                 : Get Daily and Weekly Stats
-      description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-      fontawesome_icon_name                 : adjust
+      description                           : Get summary of daily and weekly milk production
+      fontawesome_icon_name                 : chart-line
   
 
 
