@@ -44,11 +44,11 @@ features                                  :
 
     - title                                 : Stay on schedule with notifications
       description                           : Set custom reminder and stay on schedule for your next pumping session
-      fontawesome_icon_name                 : snowflake
+      fontawesome_icon_name                 : bell
 
     - title                                 : Keep track of milk stash
       description                           : Store milk stash record and usage with the easy to enter User Inteface
-      fontawesome_icon_name                 : bell
+      fontawesome_icon_name                 : snowflake
 
     - title                                 : Get Daily and Weekly Stats
       description                           : Get summary of daily and weekly milk production
