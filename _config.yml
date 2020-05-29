@@ -34,9 +34,26 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
     
-  - title                                 : iPhone Device Preview
+  - title                                 : Track Pumping Sessions
     description                           : Preview your app in the context of an iPhone device. Five different device colors included.
     fontawesome_icon_name                 : mobile
+
+ - title                                 : Stay Organized with Notifications
+   description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+   fontawesome_icon_name                 : mobile
+
+ - title                                 : Get Daily & Weekly Stats
+   description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+   fontawesome_icon_name                 : mobile
+      
+ - title                                 : Keep Track of your Stash
+   description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+   fontawesome_icon_name                 : mobile
+
+ - title                                 : Add Note of Vitamins, Water, Sleep etc.
+   description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+   fontawesome_icon_name                 : mobile
+  
 
 
 # Theme Settings
