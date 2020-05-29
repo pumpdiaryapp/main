@@ -33,26 +33,26 @@ youtube_username                          :
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
-    
-  - title                                 : Track Pumping Sessions
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
 
- - title                                 : Stay Organized with Notifications
-   description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-   fontawesome_icon_name                 : mobile
-
- - title                                 : Get Daily & Weekly Stats
-   description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-   fontawesome_icon_name                 : mobile
+    - title                                 : Log pumping sessions
+      description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+      fontawesome_icon_name                 : magic
       
- - title                                 : Keep Track of your Stash
-   description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-   fontawesome_icon_name                 : mobile
+    - title                                 : Track daily activities in between sessions
+      description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+      fontawesome_icon_name                 : mobile
 
- - title                                 : Add Note of Vitamins, Water, Sleep etc.
-   description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-   fontawesome_icon_name                 : mobile
+    - title                                 : Stay on schedule with notifications
+      description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+      fontawesome_icon_name                 : play-circle
+
+    - title                                 : Keep track of milk stash
+      description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+      fontawesome_icon_name                 : sync
+
+    - title                                 : Get Daily and Weekly Stats
+      description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+      fontawesome_icon_name                 : adjust
   
 
 
