@@ -39,15 +39,15 @@ features                                  :
       fontawesome_icon_name                 : magic
       
     - title                                 : Track daily activities in between sessions
-      description                           : Add daily activities in between sessions to monitor milk production and impact of the activities e.g. Sleep, Taking Vitamins, Workout etc
+      description                           : Optionally add daily activities in between sessions to monitor milk production and impact of the activities e.g. Sleep, Taking Vitamins, Workout etc
       fontawesome_icon_name                 : bed
 
     - title                                 : Stay on schedule with notifications
-      description                           : Set custom reminder and stay on schedule for your next pumping session
+      description                           : Set custom reminders and stay on schedule for your next pumping session
       fontawesome_icon_name                 : bell
 
     - title                                 : Keep track of milk stash
-      description                           : Store milk stash record and usage with the easy to enter User Inteface
+      description                           : Record your milk stash and its usage with the easy to use interface
       fontawesome_icon_name                 : snowflake
 
     - title                                 : Get Daily and Weekly Stats
